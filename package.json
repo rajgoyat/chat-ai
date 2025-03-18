@@ -1,7 +1,7 @@
 {
   "name": "chat_ai",
   "version": "0.1.0",
-  "homepage": "https://rajgoyat.github.io/chat_ai",
+  "homepage": "https://rajgoyat.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
